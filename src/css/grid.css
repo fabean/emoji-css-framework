@@ -3,6 +3,13 @@
   overflow: hidden;
 }
 
+.🍗 {
+  margin: 0 auto;
+  max-width: $containerMaxwidth;
+  overflow: hidden;
+  width: 100%;
+}
+
 .💪 {
   display: flex;
   flex-wrap: wrap;

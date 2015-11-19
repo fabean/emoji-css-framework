@@ -211,9 +211,15 @@ td,
 th{
   padding:0;
 }
-.🌮{
+
+.🌮,.🍗 {
   width:100%;
   overflow:hidden;
+}
+
+.🍗{
+  margin:0 auto;
+  max-width:1200px;
 }
 
 .💪{
