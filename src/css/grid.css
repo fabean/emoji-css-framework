@@ -1,0 +1,51 @@
+.🌮 {
+  width: 100%;
+  overflow: hidden;
+}
+
+.💪 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.🌯 {
+  flex-direction: row;
+}
+
+.🏛 {
+  flex-direction: column;
+}
+
+.😘 {
+  margin: auto;
+}
+
+.👶 {
+  flex: 1 100%;
+}
+
+.👦 {
+  flex: 1 50%;
+}
+
+.👧 {
+  flex: 1 33%;
+}
+
+.👨 {
+  flex: 1 25%;
+}
+
+.👩 {
+  flex: 1 20%;
+}
+
+/*
+
+👱
+👴
+👵
+👲
+👳
+👮
+*/
