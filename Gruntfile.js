@@ -40,7 +40,7 @@ module.exports = function (grunt) {
             '!_*.jade'
           ],
           'ext': '.html',
-          'dest': '<%= dist %>/'
+          'dest': ''
         }]
       }
     },
@@ -104,7 +104,7 @@ module.exports = function (grunt) {
       'dist': {
         'options': {
           'port': 9001,
-          'base': '<%= dist %>/',
+          'base': '',
           'open': true,
           'keepalive': false,
           'livereload': true,
