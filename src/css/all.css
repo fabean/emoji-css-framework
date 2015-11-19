@@ -3,3 +3,9 @@
 @import 'grid';
 @import 'common';
 @import 'layout';
+
+body {
+  * {
+    box-sizing: border-box;
+  }
+}

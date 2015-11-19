@@ -424,3 +424,7 @@ th{
 .👊{
   text-align:center;
 }
+
+body *{
+  box-sizing:border-box;
+}
