@@ -8,6 +8,10 @@
   margin: $standardSpacing;
 }
 
+.🍰 {
+  padding: $standardSpacing;
+}
+
 .👊 {
   text-align: center;
 }
