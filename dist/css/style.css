@@ -241,34 +241,133 @@ th{
   margin:auto;
 }
 
-.👶{
+.🐶{
   -webkit-flex:1 100%;
       -ms-flex:1 100%;
           flex:1 100%;
 }
 
-.👦{
+.🐱{
   -webkit-flex:1 50%;
       -ms-flex:1 50%;
           flex:1 50%;
 }
 
-.👧{
+.🐭{
   -webkit-flex:1 33%;
       -ms-flex:1 33%;
           flex:1 33%;
 }
 
-.👨{
+.🐰{
   -webkit-flex:1 25%;
       -ms-flex:1 25%;
           flex:1 25%;
 }
 
-.👩{
+.🐼{
   -webkit-flex:1 20%;
       -ms-flex:1 20%;
           flex:1 20%;
+}
+
+@media (min-width: 600px){
+
+  .📱🐶{
+    -webkit-flex:1 100%;
+        -ms-flex:1 100%;
+            flex:1 100%;
+  }
+
+  .📱🐱{
+    -webkit-flex:1 50%;
+        -ms-flex:1 50%;
+            flex:1 50%;
+  }
+
+  .📱🐭{
+    -webkit-flex:1 33%;
+        -ms-flex:1 33%;
+            flex:1 33%;
+  }
+
+  .📱🐰{
+    -webkit-flex:1 25%;
+        -ms-flex:1 25%;
+            flex:1 25%;
+  }
+
+  .📱🐼{
+    -webkit-flex:1 20%;
+        -ms-flex:1 20%;
+            flex:1 20%;
+  }
+}
+
+@media (min-width: 1000px){
+
+  .💻🐶{
+    -webkit-flex:1 100%;
+        -ms-flex:1 100%;
+            flex:1 100%;
+  }
+
+  .💻🐱{
+    -webkit-flex:1 50%;
+        -ms-flex:1 50%;
+            flex:1 50%;
+  }
+
+  .💻🐭{
+    -webkit-flex:1 33%;
+        -ms-flex:1 33%;
+            flex:1 33%;
+  }
+
+  .💻🐰{
+    -webkit-flex:1 25%;
+        -ms-flex:1 25%;
+            flex:1 25%;
+  }
+
+  .💻🐼{
+    -webkit-flex:1 20%;
+        -ms-flex:1 20%;
+            flex:1 20%;
+  }
+}
+
+@media (min-width: 1400px){
+
+  .🖥🐶{
+    -webkit-flex:1 100%;
+        -ms-flex:1 100%;
+            flex:1 100%;
+  }
+
+  .🖥🐱{
+    -webkit-flex:1 50%;
+        -ms-flex:1 50%;
+            flex:1 50%;
+  }
+
+  .🖥🐭{
+    -webkit-flex:1 33%;
+        -ms-flex:1 33%;
+            flex:1 33%;
+  }
+
+  .🖥🐰{
+    -webkit-flex:1 25%;
+        -ms-flex:1 25%;
+            flex:1 25%;
+  }
+
+  .🖥🐼{
+    -webkit-flex:1 20%;
+        -ms-flex:1 20%;
+            flex:1 20%;
+  }
 }
 .👑{
 }
@@ -285,7 +384,28 @@ th{
 }
 
 .👻{
-  opacity:0;
+  display:none;
+}
+
+@media (min-width: 600px){
+
+  .📱👻{
+    display:none;
+  }
+}
+
+@media (min-width: 1000px){
+
+  .💻👻{
+    display:none;
+  }
+}
+
+@media (min-width: 1400px){
+
+  .🖥👻{
+    display:none;
+  }
 }
 .🖕{
   clear:both;

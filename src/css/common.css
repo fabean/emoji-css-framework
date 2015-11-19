@@ -15,5 +15,29 @@
 }
 
 .👻 {
-  opacity: 0;
+  display: none;
+}
+
+.📱 {
+  @media (min-width: $small) {
+    &👻 {
+      display: none;
+    }
+  }
+}
+
+.💻 {
+  @media (min-width: $medium) {
+    &👻 {
+      display: none;
+    }
+  }
+}
+
+.🖥 {
+  @media (min-width: $large) {
+    &👻 {
+      display: none;
+    }
+  }
 }

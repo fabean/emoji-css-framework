@@ -1,1 +1,10 @@
 $standardSpacing: 2%;
+
+
+/*
+ * media queries
+ * based on min-width
+*/
+$small: 600px;
+$medium: 1000px;
+$large: 1400px;
