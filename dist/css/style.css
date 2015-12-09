@@ -378,6 +378,9 @@ th{
 .👑{
 }
 
+.👣{
+}
+
 .😎{
   transition:all 300ms ease;
 }
@@ -391,6 +394,10 @@ th{
 
 .👻{
   display:none;
+}
+
+.⚓️{
+  position:fixed;
 }
 
 @media (min-width: 600px){
@@ -429,6 +436,13 @@ th{
 
 .👊{
   text-align:center;
+}
+.🍔 .🍞{
+}
+.🍔 .🍗{
+}
+
+.🕹{
 }
 
 body *{

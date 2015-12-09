@@ -1,5 +1,10 @@
 .👑 {
   /* should do something important */
+  /* navbar */
+}
+
+.👣 {
+  /* will be footer */
 }
 
 .😎 {
@@ -16,6 +21,10 @@
 
 .👻 {
   display: none;
+}
+
+.⚓️ {
+  position: fixed;
 }
 
 .📱 {
