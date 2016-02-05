@@ -1,3 +1,6 @@
+window.onload = () => {
+
+
 let makeArray = (r) => [].slice.call(r,0);
 let randomColor = () => '#'+Math.floor(Math.random()*16777215).toString(16);
 
@@ -23,4 +26,6 @@ function constantRandomColor() {
   setTimeout(function(){
     constantRandomColor()
   }, 500);
+}
+
 }
